@@ -2,15 +2,16 @@
 @import url("https://fonts.googleapis.com/css2?family=Italiana&family=Petit+Formal+Script&display=swap");
 body {
   background-color: rgba(27, 31, 34, 0.85);
+  background: url(image/bg.jpg);
 }
 
 h3 {
-  color: pink;
+  color: white;
   text-align: center;
   font-family: "Roboto", sans-serif;
 }
 h2 {
-  color: pink;
+  color: white;
   text-align: center;
   font-family: "Roboto", sans-serif;
 }
@@ -20,12 +21,12 @@ p {
   font-family: "Roboto", sans-serif;
 }
 h1 {
-  color: pink;
+  color: white;
   text-align: center;
   font-family: "Italiana", serif;
 }
 h2 {
-  color: pink;
+  color: white;
   text-align: right;
   font-family: "Roboto", sans-serif;
 }
@@ -45,9 +46,9 @@ h2 {
 
 @keyframes slider {
   1% {
-    background-image: url(image/im4.jpg);
+    background-image: url(image/im4.jpeg);
   }
   40% {
-    background-image: url(image/im3.jpg);
+    background-image: url(image/im3.jpeg);
   }
 }
